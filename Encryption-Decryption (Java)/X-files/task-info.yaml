@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/encryptdecrypt/Main.java
+    visible: true
+    learner_created: false
+  - name: test/EncryptDecryptTest.java
+    visible: false
+    learner_created: false
+  - name: output.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5391#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 30 Sep 2025 19:39:53 UTC"
+record: 5

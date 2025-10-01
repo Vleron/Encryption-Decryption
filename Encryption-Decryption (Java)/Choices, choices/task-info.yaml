@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/encryptdecrypt/Main.java
+    visible: true
+    learner_created: false
+  - name: test/EncryptDecryptTest.java
+    visible: false
+    learner_created: false
+  - name: output.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5392#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 30 Sep 2025 22:04:27 UTC"
+record: 6
